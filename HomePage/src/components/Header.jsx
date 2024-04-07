@@ -1,11 +1,11 @@
 import { useState } from "react";
 
-import { ReactComponent as Menu } from "../assets/images/svg/menu.svg";
-import { ReactComponent as Close } from "../assets/images/svg/close.svg";
-import { ReactComponent as Logo } from "../assets/images/svg/logo.svg";
-import { ReactComponent as RightArrow } from "../assets/images/svg/rightArrow.svg";
+import Menu from "../assets/images/svg/menu.svg";
+import Close from "../assets/images/svg/close.svg";
+import Logo from "../assets/images/svg/logo.svg";
+import RightArrow from "../assets/images/svg/rightArrow.svg";
 
-export default function HeaderComponent() {
+export default function Header() {
   const [isMenuClicked, setIsMenuClicked] = useState(false);
 
   return (
