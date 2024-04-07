@@ -1,12 +1,3 @@
-<svg
-  class="mx-[8px] mb-[2px] inline leading-5"
-  width="12"
-  height="12"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <path
-    d="m6 0 1.273 4.727L12 6 7.273 7.273 6 12 4.727 7.273 0 6l4.727-1.273L6 0Z"
-    fill="#000"
-  ></path>
+<svg width="4" height="17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.688 11.664 3.336 0H.048l.648 11.664h1.992Zm-.984 5.328c.96 0 1.68-.72 1.68-1.68s-.72-1.68-1.68-1.68c-.984 0-1.704.72-1.704 1.68s.72 1.68 1.704 1.68Z" fill="#F48282"></path>
 </svg>

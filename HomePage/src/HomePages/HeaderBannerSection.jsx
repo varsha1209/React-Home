@@ -25,9 +25,9 @@ export default function HeaderBannerSection() {
               <div class="mt-4 md:mt-0">
                 <p class="font-medium text-sm md:text-base md:mb-9">
                   1% Cashback
-                  <Star />
+                  {/* <Star /> */}
                   5x Rewards
-                  <Star />
+                  {/* <Star /> */}
                   Zero Forex Markup
                 </p>
               </div>
