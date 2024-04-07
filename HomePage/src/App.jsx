@@ -1,5 +1,9 @@
 
 import {React, useEffect } from "react";
+import "./styles/global.css";
+import "./styles/tailwind.css";
+import "./styles/app.css";
+import "./styles/animation.css";
 import ApplyNowFooterSection from "./HomePages/ApplyNowFooterSection.jsx";
 import BigBannerSection from "./HomePages/BigBannerSection.jsx";
 import CreditFeatureSection from "./HomePages/CreditFeatureSection.jsx";

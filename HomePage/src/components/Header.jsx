@@ -18,7 +18,7 @@ export default function Header() {
             href="/"
             class="css-a983kj"
           >
-            <Logo />
+            {/* <Logo /> */}
           </div>
           <div class="flex">
             <div class="menu-container hidden md:flex">
@@ -38,7 +38,7 @@ export default function Header() {
                 aria-label="menu"
                 onClick={() => setIsMenuClicked((prevState) => !prevState)}
               >
-                {isMenuClicked ? <Close /> : <Menu />}
+                {/* {isMenuClicked ? <Close /> : <Menu />} */}
               </button>
             </div>
           </div>
